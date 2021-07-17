@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a880a884-c763-4bce-8ef0-dea968606880" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/kafka/kafka.go" beforeDir="false" afterPath="$PROJECT_DIR$/kafka/kafka.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailf/tail_mgr.go" beforeDir="false" afterPath="$PROJECT_DIR$/tailf/tail_mgr.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1eAd5LQsIGHR1QM8c28T3P7vWWN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="609" y="251" key="#Inspections" timestamp="1594351211778">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="609" y="251" key="#Inspections/1920.-124.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1594351211778" />
+    <state x="854" y="354" key="#Notifications" timestamp="1594280647379">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="854" y="354" key="#Notifications/1920.-124.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1594280647379" />
+    <state x="932" y="496" width="475" height="317" key="EnvironmentVariablesDialog" timestamp="1594876687066">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="932" y="496" width="475" height="317" key="EnvironmentVariablesDialog/1920.-124.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1594876687066" />
+    <state x="845" y="129" key="SettingsEditor" timestamp="1594877936174">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="705" y="358" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1593958621513" />
+    <state x="845" y="129" key="SettingsEditor/1920.-124.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1594877936174" />
+    <state x="0" y="23" width="1597" height="816" key="dock-window-1" timestamp="1593964350146">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="0" y="23" width="1597" height="816" key="dock-window-1/1920.59.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1593964350146" />
+    <state x="577" y="249" width="889" height="661" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1594877996672">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="577" y="249" width="889" height="661" key="org.intellij.images.editor.actions.BackgroundImageDialog/1920.-124.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1594877996672" />
+    <state x="1146" y="179" width="670" height="676" key="search.everywhere.popup" timestamp="1601188963715">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="954" y="319" width="670" height="676" key="search.everywhere.popup/0.23.1920.1057@0.23.1920.1057" timestamp="1594219624215" />
+    <state x="1146" y="179" width="670" height="676" key="search.everywhere.popup/1920.-124.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1601188963715" />
+  </component>
+</project>
